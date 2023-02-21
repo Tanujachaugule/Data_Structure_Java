@@ -1,7 +1,7 @@
 package com.binearySearchTree;
 
 class BinarySearch{
-    public class Node {
+    public static class Node {
         public int data;
         public Node left;
         public Node right;
