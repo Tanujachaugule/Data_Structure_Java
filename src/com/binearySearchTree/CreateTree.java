@@ -1,6 +1,7 @@
 package com.binearySearchTree;
 class Node {
-        int key;
+    public int value;
+    int key;
         Node left, right;
 
         public Node(int item) {
